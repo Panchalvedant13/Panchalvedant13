@@ -25,7 +25,8 @@ AI/ML Engineer with 3+ years productionizing Generative AI and large-scale ML sy
 | [prompt-contract-ci](https://github.com/Panchalvedant13/prompt-contract-ci) | Contract testing for LLM structured outputs: 20,000/20,000 verdicts vs ground truth |
 
 ## 🛠 what I work with
-<div align= "centre">
+<div align= "center">
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -47,9 +48,13 @@ AI/ML Engineer with 3+ years productionizing Generative AI and large-scale ML sy
 
 ## 📬 connect
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantpanchal13/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedant.star1@gmail.com)
 
+
+</div>
 ---
 
 <div align="center">
